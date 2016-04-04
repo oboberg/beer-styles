@@ -1,0 +1,6 @@
+{
+  "name": "Beer-styles",
+  "tagline": "",
+  "body": "The Beer Judge Certification Program (BJCP) [style guide](http://www.bjcp.org/docs/2015_Guidelines_Beer.pdf), provides most of the information anyone could ever want to know about beer. In the 2015 version of the guide, the beers are split up into 34 categories, each with their own list of subcategories, over a 93 page PDF. That is a lot to scroll through when looking for a new beer to try.\r\n\r\nFor a quick and fun Sunday project, I decided to look for my own clustering of beer based on the attributes of the individual beers presented in the BJCP style guide. The ultimate goal is to use the clustered data to make style recommendations based on a previously enjoyed styles. \r\n\r\nI am still playing around with this analysis, but its current state is presented [here](https://github.com/oboberg/beer-styles/blob/master/explore_beer.ipynb)",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
