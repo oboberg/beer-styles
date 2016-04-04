@@ -61,6 +61,7 @@ header {
 header h1 {
   font-size: 48px;
   font-weight: bold;
+  font-style: normal;
   line-height: 1.2;
   color: #303030;
   letter-spacing: -1px;
